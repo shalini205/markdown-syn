@@ -45,3 +45,14 @@ hahahahahhahahah
  ```
       fun()
  ```
+## write a c program to print hello apssdc
+```c
+#include<stdio.h>
+int main();
+{
+ printf("hello apssdc");
+ }
+ ```
+ ```
+ int()
+ ```
