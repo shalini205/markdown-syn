@@ -15,9 +15,9 @@ hahahahahhahahah
 >>comedy
 >>>fun
 ## order list
-1.shali
-   1.shalu
-   2.machupalli
- 2.rika
-    1.setlem
-    2.cumbum
+1. shali
+       1. shalu
+       2. machupalli
+ 2. rika
+       1. setlem
+       2. cumbum
