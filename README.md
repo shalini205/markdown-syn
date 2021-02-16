@@ -58,3 +58,7 @@ int main();
  ```
 ## link
 [shalini](https://www.markdownguide.org/cheat-sheet/)
+## college website link
+[college](https://www.kits-anna.com)
+## gmail link
+[](https://www.shalinimachupalli.com)
