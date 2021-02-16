@@ -36,4 +36,11 @@ hahahahahhahahah
     1. shalu
     2. siri
     3. sony
-  
+  ## code`
+  ```python
+  def fun():
+      print("hi kari,how are you")
+      ```
+      ```
+      fun()
+      ```
