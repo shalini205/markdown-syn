@@ -62,3 +62,5 @@ int main();
 [college](https://www.kits-anna.com)
 ## gmail link
 [](https://www.shalinimachupalli227@gmail.com)
+## inserted image
+![pic](https://github.com/shalini205/markdown-syn/blob/master/shalinimachupalli.jpg)
