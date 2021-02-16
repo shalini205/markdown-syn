@@ -37,7 +37,8 @@ hahahahahhahahah
     2. siri
     3. sony
   ## code`
-  ```python
+  ```
+  python
   def fun():
       print("hi kari,how are you")
       ```
