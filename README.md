@@ -42,6 +42,6 @@ hahahahahhahahah
   def fun():
       print("hi kari,how are you")
  ```
-      ```
+ ```
       fun()
-      ```
+ ```
