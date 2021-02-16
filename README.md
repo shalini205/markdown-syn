@@ -64,3 +64,4 @@ int main();
 [](https://www.shalinimachupalli227@gmail.com)
 ## inserted image
 ![pic](https://github.com/shalini205/markdown-syn/blob/master/shalinimachupalli.jpg)
+![new](https://github.com/shalini205/markdown-syn/blob/master/newyear.jpg)
